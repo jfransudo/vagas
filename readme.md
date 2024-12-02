@@ -1,3 +1,7 @@
+Deve ser criada a estrutura de diretórios do projeto
+/app/Entity
+/app/db/
+/include
 
 ## Banco de dados
 Execute o arquivo vagas.sql para criar o banco de dados ea tabela
